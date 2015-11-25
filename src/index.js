@@ -1,7 +1,7 @@
 export default function () {
-  const myTestVariable = 1
+  const myTestVariable = 10
 
-  if (myTestVariable === 2) {
+  if (myTestVariable > 2) {
     return false
   }
 
